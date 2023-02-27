@@ -1,0 +1,1 @@
+web gunicorn stepOne.wsgi:apllication --log-file -
